@@ -1,0 +1,136 @@
+D:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.exe.config
+D:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.exe
+D:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.pdb
+D:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.AssemblyReference.cache
+D:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.SuggestedBindingRedirects.cache
+D:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form1.resources
+D:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Properties.Resources.resources
+D:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.GenerateResource.cache
+D:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.CoreCompileInputs.cache
+D:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.exe
+D:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.pdb
+G:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.exe.config
+G:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.exe
+G:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.pdb
+G:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.AssemblyReference.cache
+G:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.SuggestedBindingRedirects.cache
+G:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form1.resources
+G:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Properties.Resources.resources
+G:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.GenerateResource.cache
+G:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.CoreCompileInputs.cache
+G:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.exe
+G:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.pdb
+D:\a.全端\ㄈ. adoNet\22.10.28\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.AssemblyReference.cache
+D:\a.全端\ㄈ. adoNet\22.10.28\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.SuggestedBindingRedirects.cache
+D:\a.全端\ㄈ. adoNet\22.10.28\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form1.resources
+D:\a.全端\ㄈ. adoNet\22.10.28\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Properties.Resources.resources
+D:\a.全端\ㄈ. adoNet\22.10.28\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.GenerateResource.cache
+D:\a.全端\ㄈ. adoNet\22.10.28\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.CoreCompileInputs.cache
+D:\a.全端\ㄈ. adoNet\22.10.28\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.exe
+D:\a.全端\ㄈ. adoNet\22.10.28\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.pdb
+D:\a.全端\ㄈ. adoNet\22.10.28\WindowsFormsApp練習\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.exe.config
+D:\a.全端\ㄈ. adoNet\22.10.28\WindowsFormsApp練習\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.exe
+D:\a.全端\ㄈ. adoNet\22.10.28\WindowsFormsApp練習\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.pdb
+D:\a.全端\ㄈ. adoNet\22.10.28\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form2cart.resources
+D:\a.全端\ㄈ. adoNet\22.10.28\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form_account.resources
+G:\a.全端\ㄈ. adoNet\22.10.28\WindowsFormsApp練習\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.exe.config
+G:\a.全端\ㄈ. adoNet\22.10.28\WindowsFormsApp練習\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.exe
+G:\a.全端\ㄈ. adoNet\22.10.28\WindowsFormsApp練習\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.pdb
+G:\a.全端\ㄈ. adoNet\22.10.28\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.AssemblyReference.cache
+G:\a.全端\ㄈ. adoNet\22.10.28\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.SuggestedBindingRedirects.cache
+G:\a.全端\ㄈ. adoNet\22.10.28\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form1.resources
+G:\a.全端\ㄈ. adoNet\22.10.28\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form2cart.resources
+G:\a.全端\ㄈ. adoNet\22.10.28\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form_account.resources
+G:\a.全端\ㄈ. adoNet\22.10.28\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Properties.Resources.resources
+G:\a.全端\ㄈ. adoNet\22.10.28\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.GenerateResource.cache
+G:\a.全端\ㄈ. adoNet\22.10.28\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.CoreCompileInputs.cache
+G:\a.全端\ㄈ. adoNet\22.10.28\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.exe
+G:\a.全端\ㄈ. adoNet\22.10.28\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.pdb
+D:\a.全端\ㄈ. adoNet\22.10.31\WindowsFormsApp練習\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.exe.config
+D:\a.全端\ㄈ. adoNet\22.10.31\WindowsFormsApp練習\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.exe
+D:\a.全端\ㄈ. adoNet\22.10.31\WindowsFormsApp練習\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.pdb
+D:\a.全端\ㄈ. adoNet\22.10.31\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.AssemblyReference.cache
+D:\a.全端\ㄈ. adoNet\22.10.31\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.SuggestedBindingRedirects.cache
+D:\a.全端\ㄈ. adoNet\22.10.31\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form1.resources
+D:\a.全端\ㄈ. adoNet\22.10.31\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form2cart.resources
+D:\a.全端\ㄈ. adoNet\22.10.31\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form_account.resources
+D:\a.全端\ㄈ. adoNet\22.10.31\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Properties.Resources.resources
+D:\a.全端\ㄈ. adoNet\22.10.31\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.GenerateResource.cache
+D:\a.全端\ㄈ. adoNet\22.10.31\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.CoreCompileInputs.cache
+D:\a.全端\ㄈ. adoNet\22.10.31\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.exe
+D:\a.全端\ㄈ. adoNet\22.10.31\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.pdb
+D:\a.全端\ㄈ. adoNet\22.10.31\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form_signin.resources
+C:\Users\USER\Desktop\WindowsFormsApp練習\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.exe.config
+C:\Users\USER\Desktop\WindowsFormsApp練習\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.exe
+C:\Users\USER\Desktop\WindowsFormsApp練習\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.pdb
+C:\Users\USER\Desktop\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form1.resources
+C:\Users\USER\Desktop\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form2cart.resources
+C:\Users\USER\Desktop\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form_account.resources
+C:\Users\USER\Desktop\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form_signin.resources
+C:\Users\USER\Desktop\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Properties.Resources.resources
+C:\Users\USER\Desktop\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.exe
+C:\Users\USER\Desktop\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.pdb
+E:\user\MOMO\Desktop\WindowsFormsApp練習\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.exe.config
+E:\user\MOMO\Desktop\WindowsFormsApp練習\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.exe
+E:\user\MOMO\Desktop\WindowsFormsApp練習\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.pdb
+E:\user\MOMO\Desktop\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.AssemblyReference.cache
+E:\user\MOMO\Desktop\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.SuggestedBindingRedirects.cache
+E:\user\MOMO\Desktop\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form1.resources
+E:\user\MOMO\Desktop\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form2cart.resources
+E:\user\MOMO\Desktop\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form_account.resources
+E:\user\MOMO\Desktop\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form_signin.resources
+E:\user\MOMO\Desktop\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Properties.Resources.resources
+E:\user\MOMO\Desktop\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.GenerateResource.cache
+E:\user\MOMO\Desktop\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.CoreCompileInputs.cache
+E:\user\MOMO\Desktop\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.exe
+E:\user\MOMO\Desktop\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.pdb
+E:\user\MOMO\Desktop\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form_acc_detail.resources
+C:\Users\USER\Desktop\WindowsFormsApp練習1104\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.exe.config
+C:\Users\USER\Desktop\WindowsFormsApp練習1104\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.exe
+C:\Users\USER\Desktop\WindowsFormsApp練習1104\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.pdb
+C:\Users\USER\Desktop\WindowsFormsApp練習1104\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\WindowsFormsApp練習1104\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\WindowsFormsApp練習1104\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form1.resources
+C:\Users\USER\Desktop\WindowsFormsApp練習1104\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form2cart.resources
+C:\Users\USER\Desktop\WindowsFormsApp練習1104\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form_account.resources
+C:\Users\USER\Desktop\WindowsFormsApp練習1104\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form_acc_detail.resources
+C:\Users\USER\Desktop\WindowsFormsApp練習1104\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form_signin.resources
+C:\Users\USER\Desktop\WindowsFormsApp練習1104\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Properties.Resources.resources
+C:\Users\USER\Desktop\WindowsFormsApp練習1104\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\WindowsFormsApp練習1104\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\WindowsFormsApp練習1104\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.exe
+C:\Users\USER\Desktop\WindowsFormsApp練習1104\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.pdb
+E:\user\MOMO\Desktop\WindowsFormsApp練習1104\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.exe.config
+E:\user\MOMO\Desktop\WindowsFormsApp練習1104\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.exe
+E:\user\MOMO\Desktop\WindowsFormsApp練習1104\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.pdb
+E:\user\MOMO\Desktop\WindowsFormsApp練習1104\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.AssemblyReference.cache
+E:\user\MOMO\Desktop\WindowsFormsApp練習1104\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.SuggestedBindingRedirects.cache
+E:\user\MOMO\Desktop\WindowsFormsApp練習1104\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form1.resources
+E:\user\MOMO\Desktop\WindowsFormsApp練習1104\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form2cart.resources
+E:\user\MOMO\Desktop\WindowsFormsApp練習1104\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form_account.resources
+E:\user\MOMO\Desktop\WindowsFormsApp練習1104\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form_acc_detail.resources
+E:\user\MOMO\Desktop\WindowsFormsApp練習1104\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form_signin.resources
+E:\user\MOMO\Desktop\WindowsFormsApp練習1104\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Properties.Resources.resources
+E:\user\MOMO\Desktop\WindowsFormsApp練習1104\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.GenerateResource.cache
+E:\user\MOMO\Desktop\WindowsFormsApp練習1104\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.CoreCompileInputs.cache
+E:\user\MOMO\Desktop\WindowsFormsApp練習1104\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.exe
+E:\user\MOMO\Desktop\WindowsFormsApp練習1104\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.pdb
+G:\期中專題_新版\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.exe.config
+G:\期中專題_新版\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.exe
+G:\期中專題_新版\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.pdb
+G:\期中專題_新版\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.AssemblyReference.cache
+G:\期中專題_新版\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.SuggestedBindingRedirects.cache
+G:\期中專題_新版\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form1.resources
+G:\期中專題_新版\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form2cart.resources
+G:\期中專題_新版\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form_account.resources
+G:\期中專題_新版\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form_acc_detail.resources
+G:\期中專題_新版\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form_signin.resources
+G:\期中專題_新版\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Properties.Resources.resources
+G:\期中專題_新版\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.GenerateResource.cache
+G:\期中專題_新版\WindowsFormsApp練習\obj\Debug\WindowsFormsApp_cartsys4_UNCQ.csproj.CoreCompileInputs.cache
+G:\期中專題_新版\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.exe
+G:\期中專題_新版\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.pdb

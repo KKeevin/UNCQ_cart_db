@@ -1,0 +1,11 @@
+D:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.exe.config
+D:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.exe
+D:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\bin\Debug\WindowsFormsApp練習.pdb
+D:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.csproj.AssemblyReference.cache
+D:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.csproj.SuggestedBindingRedirects.cache
+D:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Form1.resources
+D:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.Properties.Resources.resources
+D:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.csproj.GenerateResource.cache
+D:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.csproj.CoreCompileInputs.cache
+D:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.exe
+D:\a.全端\ㄈ. adoNet\22.10.25\WindowsFormsApp練習\WindowsFormsApp練習\obj\Debug\WindowsFormsApp練習.pdb
